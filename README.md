@@ -3,9 +3,9 @@
 
 ### Web scrapping 
 
-1.First the data was scrapped from worldometers.info to an excel sheet.
+1. First the data was scrapped from worldometers.info to an excel sheet.
 
-2.The data collected was then processed.
+2. The data collected was then processed.
 
 ### On the analysis part
 
