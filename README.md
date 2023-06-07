@@ -17,4 +17,4 @@
 
 4. Another bar graph to visualize immigration patterns of different countries was done.
 
-5. 
+5. A choropleth map of the world was done with population numbers in mind.
